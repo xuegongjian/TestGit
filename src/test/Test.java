@@ -10,6 +10,10 @@ public class Test {
 		j=j+1;
 		j++;
 		int	b=0;
+		
+	}
+	private	void	a(){
+		int	b=0;
 	}
 	
 	public	int		c(){
