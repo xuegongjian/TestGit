@@ -7,5 +7,6 @@ public class Test {
 		int j=0;
 		
 		i++;
+		j++;
 	}
 }
