@@ -9,5 +9,6 @@ public class Test {
 		i++;
 		
 		j=j+1;
+		j++;
 	}
 }
