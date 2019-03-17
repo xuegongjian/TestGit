@@ -1,6 +1,6 @@
 package test;
 
-public class Test {
+public class Test2 {
 
 	public static void main(String[] args) {
 		int i =0;
@@ -10,9 +10,5 @@ public class Test {
 		j=j+1;
 		j++;
 		int	b=0;
-	}
-	
-	public	int		c(){
-		return	0;
 	}
 }
