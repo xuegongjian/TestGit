@@ -8,5 +8,7 @@ public class Test {
 		
 		i++;
 		j++;
+		
+		int	b=0;
 	}
 }
