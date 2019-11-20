@@ -11,6 +11,7 @@ public class Test {
 	
 	private	void	t(int	fdsfd){
 		int	b=0;
+		int	d=0;
 	}
 	
 
