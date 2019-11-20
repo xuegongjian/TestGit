@@ -15,6 +15,7 @@ public class Test {
 
 	private	void	k(long	aa){
 		int	b=0;
+		int	c=7;
 	}
 	
 	private	void	d(){
