@@ -20,6 +20,10 @@ public class Test {
 		return	0;
 	}
 	
+	public	int		e(){
+		return	0;
+	}
+	
 	public	int		g(){
 		return	0;
 	}
