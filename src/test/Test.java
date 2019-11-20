@@ -8,10 +8,14 @@ public class Test {
 		i =4;
 		System.out.println(i>>>1);
 	}
-	private	void	a(){
+	private	void	a(int		f){
 		int	b=0;
 	}
 	
+
+	public	int		e(){
+		return	0;
+	}
 	
 	public	int		c(){
 		return	0;
