@@ -3,18 +3,15 @@ package test;
 public class Test {
 
 	public static void main(String[] args) {
-		int i =0;
-		int j=0;
-		
-		i++;
-		j=j+1;
-		j++;
-		int	b=0;
-		
+		int i =5;
+		System.out.println(i>>>1);
+		i =4;
+		System.out.println(i>>>1);
 	}
 	private	void	a(){
 		int	b=0;
 	}
+	
 	
 	public	int		c(){
 		return	0;
