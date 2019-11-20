@@ -8,7 +8,13 @@ public class Test {
 		i =4;
 		System.out.println(i>>>1);
 	}
-	private	void	a(int	dsafds){
+	
+	private	void	t(int	fdsfd){
+		int	b=0;
+	}
+	
+
+	private	void	k(long	aa){
 		int	b=0;
 	}
 	
