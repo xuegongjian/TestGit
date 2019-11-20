@@ -19,4 +19,8 @@ public class Test {
 	public	int		c(){
 		return	0;
 	}
+	
+	public	int		e(){
+		return	0;
+	}
 }
