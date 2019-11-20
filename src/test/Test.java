@@ -8,7 +8,7 @@ public class Test {
 		i =4;
 		System.out.println(i>>>1);
 	}
-	private	void	a(int	c){
+	private	void	a(int	d){
 		int	b=0;
 	}
 	
@@ -22,5 +22,9 @@ public class Test {
 	
 	public	int		e(){
 		return	0;
+	}
+	
+	private	void	h(int	d){
+		int	b=0;
 	}
 }
