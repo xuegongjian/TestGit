@@ -23,8 +23,4 @@ public class Test {
 	public	int		e(){
 		return	0;
 	}
-	
-	public	int		g(){
-		return	0;
-	}
 }
