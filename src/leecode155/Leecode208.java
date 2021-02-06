@@ -2,9 +2,9 @@ package leecode155;
 
 public class Leecode208 {
 
-	public class ListNode {
-		int val;
-		ListNode next;
+	public static class ListNode {
+		public int val;
+		public ListNode next;
 
 		ListNode(int x) {
 			val = x;

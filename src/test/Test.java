@@ -3,10 +3,12 @@ package test;
 public class Test {
 
 	public static void main(String[] args) {
-		int i =5;
-		System.out.println(i>>>1);
-		i =4;
-		System.out.println(i>>>1);
+		String b="abcd";
+		String a="abc";
+		String e=a+"d";
+		
+		System.out.println(e== b);
+		System.out.println(e.equals(b));
 	}
 	
 	private	void	t(int	fdsfd){
