@@ -11,5 +11,10 @@ public class Test {
 		System.out.println(e.equals(b));
 	}
 	
+
 	
+
+	private	void	t(int	d){
+		int	b=0;
+	}
 }
