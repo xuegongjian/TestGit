@@ -11,30 +11,12 @@ public class Test {
 		System.out.println(e.equals(b));
 	}
 	
-	private	void	t(int	fdsfd){
-		int	b=0;
-		int	e=0;
-		int	d=0;
-	}
-	
-
-	private	void	k(long	aa){
-		int	e=0;
-		int	b=0;
-		int	c=7;
-	}
-	
-	private	void	d(	){
-		int	b=0;
-	}
-	
 	
 	public	int		c(){
 		return	0;
 	}
 	
 	public	int		e(){
-		int	b=0;
 		return	0;
 	}
 	
