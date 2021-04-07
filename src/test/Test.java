@@ -23,13 +23,11 @@ public class Test {
 	}
 	
 	private	void	d(	){
-		int i = 0;
 		int	b=0;
 	}
 	
 	
 	public	int		c(){
-		int i = 0;
 		return	0;
 	}
 	
