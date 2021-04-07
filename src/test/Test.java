@@ -7,16 +7,7 @@ public class Test {
 		System.out.println(i>>>1);
 		i =4;
 		System.out.println(i>>>1);
-	}
-	
-	private	void	t(int	fdsfd){
-		int	b=0;
-		int	d=0;
-	}
-	
-
-	private	void	k(long	aa){
-		int	b=0;
+		i =4;
 	}
 	
 	private	void	d(	){
