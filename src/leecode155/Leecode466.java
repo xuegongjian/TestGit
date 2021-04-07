@@ -1,6 +1,6 @@
 package leecode155;
 
-public class Lee466 {
+public class Leecode466 {
 	public int getMaxRepetitions(String s1, int n1, String s2, int n2) {
 		char[] arr1 = s1.toCharArray();
 		char[] arr2 = s2.toCharArray();

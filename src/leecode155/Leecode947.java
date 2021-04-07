@@ -3,7 +3,7 @@ package leecode155;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Lee947 {
+public class Leecode947 {
 //	public int removeStones(int[][] stones) {
 //		if(null == stones || stones.length == 0) {
 //			return 0;

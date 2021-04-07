@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
-public class Lee1081 {
+public class Leecode1081 {
 
 	public String smallestSubsequence(String s) {
 		if (null == s || "".equals(s)) {
@@ -59,6 +59,6 @@ public class Lee1081 {
 
 	public static void main(String[] args) {
 
-		System.out.println(new Lee1081().smallestSubsequence("bcbcababa"));
+		System.out.println(new Leecode1081().smallestSubsequence("bcbcababa"));
 	}
 }

@@ -2,7 +2,7 @@ package leecode155;
 
 import java.util.Arrays;
 
-public class Lee962 {
+public class Leecode962 {
 	public int maxWidthRamp(int[] A) {
 		if (A == null) {
 			return 0;
@@ -33,7 +33,7 @@ public class Lee962 {
 	public static void main(String[] args) {
 		int[] tokens = new int[] {1,2,3,4,5};
 		int P = 73;
-		 System.out.println(new Lee962().maxWidthRamp(tokens));
+		 System.out.println(new Leecode962().maxWidthRamp(tokens));
 
 	}
 }

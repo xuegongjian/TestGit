@@ -2,7 +2,7 @@ package leecode155;
 
 import java.util.Arrays;
 
-public class Lee948 {
+public class Leecode948 {
 	public int bagOfTokensScore(int[] tokens, int P) {
 		Arrays.sort(tokens);
 		if (null == tokens || tokens.length == 0 || tokens[0] > P) {
@@ -33,7 +33,7 @@ public class Lee948 {
 	public static void main(String[] args) {
 		int[] tokens = new int[] { 81, 91, 31 };
 		int P = 73;
-		System.out.println(new Lee948().bagOfTokensScore(tokens, P));
+		System.out.println(new Leecode948().bagOfTokensScore(tokens, P));
 
 	}
 }
