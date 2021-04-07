@@ -25,14 +25,17 @@ public class Test {
 	
 	
 	public	int		c(){
+		int i = 0;
 		return	0;
 	}
 	
 	public	int		e(){
+		int i = 0;
 		return	0;
 	}
 	
 	private	void	h(int	d){
+		int i = 0;
 		int	b=0;
 	}
 }
