@@ -11,16 +11,9 @@ public class Test {
 		System.out.println(e.equals(b));
 	}
 	
+
 	
-	public	int		c(){
-		return	0;
-	}
-	
-	public	int		e(){
-		return	0;
-	}
-	
-	private	void	h(int	d){
+	private	void	t(int	d){
 		int	b=0;
 	}
 }
