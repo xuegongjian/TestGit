@@ -11,21 +11,6 @@ public class Test {
 		System.out.println(e.equals(b));
 	}
 	
-	private	void	t(int	fdsfd){
-		int	b=0;
-		int	d=0;
-	}
-	
-
-	private	void	k(long	aa){
-		int	b=0;
-		int	c=7;
-	}
-	
-	private	void	d(	){
-		int	b=0;
-	}
-	
 	
 	public	int		c(){
 		return	0;
